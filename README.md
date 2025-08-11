@@ -2,7 +2,7 @@
 
 - 🌐 Currently working as **Web Developer**
 - 🎓 PhD in Particle Physics — yes, I’ve smashed particles… now I’m smashing code 💥
-- 📚 Studying **MLOps** and **AZ-204 (Azure)** to transition into **AI Engineering**
+- 📚 Studying **MLOps** and **AZ-204 (Azure)**.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ramon-ruiz-fernandez)
 - ⚠️ This profile is not updated
 
